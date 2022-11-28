@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Asia Lara Conti
+### Hi there 👋 my name is Alex Conti
 
 <!--
 **ContiAsiaLara/ContiAsiaLara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
